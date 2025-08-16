@@ -41,6 +41,3 @@ New-AzResourceGroupDeployment \`
 
 ## Source
 Based on [Microsoft Learn Lab Instructions](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
-
-## Author
-ufukulaserdem
